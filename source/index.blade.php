@@ -14,12 +14,12 @@
                 <div class="card">
                     <div class="card-body shadow-sm">
                         <i class="fas fa-wrench fa-2x fa-pull-left fa-border"></i>
-                           
-                        <p class="card-text">If your need guidelines while deploying your project or settings up a new project. 
+
+                        <p class="card-text">If your need guidelines while deploying your project or settings up a new project.
                             You can use this set of guidelines through the procedures. To help u with a good setup or deployment.
                         </p>
 
-                        <a href="#" class="card-link"><i class="far fa-eye"></i> See workflow guidelines</a>
+                        <a href="/git-guidelines" class="card-link"><i class="far fa-eye"></i> See workflow guidelines</a>
                     </div>
                 </div>
             </div>
@@ -30,8 +30,8 @@
                         <i class="fas fa-laptop-code fa-2x fa-pull-left fa-border"></i>
 
                         <p class="card-text">
-                            If you need for the coding on your application or writing maintainable code in your project. 
-                            You can use this set of guidelines trough your project. To help you in the development process. 
+                            If you need for the coding on your application or writing maintainable code in your project.
+                            You can use this set of guidelines trough your project. To help you in the development process.
                         </p>
 
                         <a href="#" class="card-link"><i class="far fa-eye"></i> See coding guidelines</a>
