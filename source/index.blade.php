@@ -15,7 +15,7 @@
                     <div class="card-header">
                         Workflow guidelines
                     </div>
-                    <div class="card-body shadow-sm">
+                    <div class="card-body">
                         <i class="fas fa-wrench fa-2x fa-pull-left fa-border"></i>
 
                         <p class="card-text">If your need guidelines while deploying your project or settings up a new project.
@@ -28,7 +28,7 @@
             <div class="col-md-4">
                 <div class="card shadow-sm">
                     <div class="card-header">
-                        Coding guidelines
+                        Laravel & PHP guidelines
                     </div>
                     <div class="card-body">
                         <i class="fas fa-laptop-code fa-2x fa-pull-left fa-border"></i>
@@ -37,6 +37,10 @@
                             If you need for the coding on your application or writing maintainable code in your project.
                             You can use this set of guidelines trough your project. To help you in the development process.
                         </p>
+
+                        <a href="/php-laravel-guidelines" class="btn btn-sm btn-outline-primary">
+                            <i class="far fa-eye"></i> Read guidelines
+                        </a>
                     </div>
                 </div>
             </div>
